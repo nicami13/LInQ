@@ -1,0 +1,17 @@
+C:\Users\APM02-65\Desktop\sex\suma\bin\Debug\net7.0\practica_link-coock.exe
+C:\Users\APM02-65\Desktop\sex\suma\bin\Debug\net7.0\practica_link-coock.deps.json
+C:\Users\APM02-65\Desktop\sex\suma\bin\Debug\net7.0\practica_link-coock.runtimeconfig.json
+C:\Users\APM02-65\Desktop\sex\suma\bin\Debug\net7.0\practica_link-coock.dll
+C:\Users\APM02-65\Desktop\sex\suma\bin\Debug\net7.0\practica_link-coock.pdb
+C:\Users\APM02-65\Desktop\sex\suma\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\APM02-65\Desktop\sex\suma\obj\Debug\net7.0\practica_link-coock.csproj.AssemblyReference.cache
+C:\Users\APM02-65\Desktop\sex\suma\obj\Debug\net7.0\practica_link-coock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-65\Desktop\sex\suma\obj\Debug\net7.0\practica_link-coock.AssemblyInfoInputs.cache
+C:\Users\APM02-65\Desktop\sex\suma\obj\Debug\net7.0\practica_link-coock.AssemblyInfo.cs
+C:\Users\APM02-65\Desktop\sex\suma\obj\Debug\net7.0\practica_link-coock.csproj.CoreCompileInputs.cache
+C:\Users\APM02-65\Desktop\sex\suma\obj\Debug\net7.0\practica_link-coock.csproj.CopyComplete
+C:\Users\APM02-65\Desktop\sex\suma\obj\Debug\net7.0\practica_link-coock.dll
+C:\Users\APM02-65\Desktop\sex\suma\obj\Debug\net7.0\refint\practica_link-coock.dll
+C:\Users\APM02-65\Desktop\sex\suma\obj\Debug\net7.0\practica_link-coock.pdb
+C:\Users\APM02-65\Desktop\sex\suma\obj\Debug\net7.0\practica_link-coock.genruntimeconfig.cache
+C:\Users\APM02-65\Desktop\sex\suma\obj\Debug\net7.0\ref\practica_link-coock.dll
